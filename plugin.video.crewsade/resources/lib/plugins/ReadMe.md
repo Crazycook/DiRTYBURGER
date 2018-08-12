@@ -1,0 +1,67 @@
+# Tantrum Plugins for Jen Template
+
+These are plugins not bundled with Jen Template from various sources.
+
+- air_table
+    - General air tables for stuff
+- animetoon
+    - Pulls from another anime site with some sections having pagination, but not many. Genre not supported but has 3-4 sources per video.
+- arconaitv
+    - Used to pull streams from the arconai tv website.
+- arconaitv2
+    - Fork of arconaitv plugin, with more options for your xmls. XML Tags are different in this one as well
+- arraki_air
+    - A new type of air table plugin, allowing you to add many tables via xml instead of being hard coded
+- bnwmovies
+    - Plugin to pull old black and white classic movies via an Air Table
+- cobp
+    - Used to pull categories, vides, etc. from the collectionofbestporn.com website
+- colorize
+    - Plugin for letting users select from a list of colors. Can be used to colorize menu titles the way you want
+- docheaven
+    - Pulls free documentaries from a specific site by category
+- hesgoal
+    - Returns Sports Games from hesgoal
+- lastfm
+    - Pulls data from the LastFM website (Requires API keys in Jen configuration)
+- m3u
+    - Pulls information an streams from m3u links
+- mop
+    - Plugin for the Podcast archive at https://massivelyop.com (Massively Over Powered) gaming website
+- moviefone
+    - Trailers plugin
+- movietorture
+    - Plugin that scrapes a specific site for movies to torture your soul
+- password
+    - Allows you to password protect menu items in your Jen (base64 encoded password in xml entries)
+- podbay
+    - Podbay scraper for Jen, allowing menu items for Categories or specific shows
+- podcastone
+    - PodcastOne scraper for Jen, allowing menu items for Categories or specific shows
+- rainbow
+    - Colorizes your menu items automatically when generating views
+- releases
+    - Returns New Movie Releases from airtable
+- sports_streams
+    - Used to pull game streams from sports-stream.net
+- the_duke
+    - Another air table plugin for pulling movies with John Wayne (The Duke)
+- tools
+    - Useful tools for menu items, such as to mark an item non-clickable or open settings to a specific tab and section
+- toonmania
+    - Pulls cartoons and movies from a specific site, all direct link/one click play
+- toonova
+    - Pulls cartoons and movies from a specific site, with 3-4 sources per (No subbed/dubbed)
+- topdocs
+    - Pulls free documentaries from a specific site by category
+- tvmaze
+    - Pulls network and show information from the tvmaze website
+- views
+    - Functions to set persistent content/container views to the database (Set default views)
+- watchcartoon
+    - Pulls movie, cartoon, anime, and video info from WatchCartoonOnline.io website
+- wctooncom
+    - Pulls movie, cartoon, anime, and video info from WatchCartoonOnline.com website (clone site of watchcartoononline.io, but different html formatting)
+- yt_api
+    - Allows you to create menu items to apply Youtube API key information to the Youtube Plugin in Kodi
+
